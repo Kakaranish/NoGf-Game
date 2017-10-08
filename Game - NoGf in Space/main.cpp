@@ -2,6 +2,7 @@
 #include "BackgroundView.h"
 
 //new branch?
+//added new comment ;)))
 
 int main(int argc, char * argv[]) {
 
