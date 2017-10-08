@@ -2,8 +2,8 @@
 #include "BackgroundView.h"
 
 //new branch?
-//added new comment ;)))
 //added next comment heheh
+//czwarty komentarzyk dodany heheh
 
 int main(int argc, char * argv[]) {
 
